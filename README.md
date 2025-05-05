@@ -15,7 +15,7 @@ Basically the waveshaping was ass.  Before I got into this programming nonsense 
 
 - 'voice' sets the tone centre frequency, 'shape' sets the boost or cut at that frequency
 
-![](https://github.com/sirKayAndFriends/netzer_jfet_overdrive/blob/main/Source/resources/screenshot.png)
+![](https://github.com/sirKayAndFriends/netzer_jfet_overdrive/blob/main/screenshot.png)
 
 ## Why does it look like that?
 Those old DIY sites looked awesome.  I have a real nostalgia for that old, cruddy internet thing.  There's a thriving community of people making mad things in their sheds and I find those spaces very comforting amid our current internet descent into hell (although all those 90s web hippies did also turn into fascists - I'm aware of that).  
